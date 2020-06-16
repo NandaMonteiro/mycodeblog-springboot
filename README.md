@@ -24,4 +24,4 @@ Crie um banco de dados no postgres e passe os dados correspondentes as configura
  
 do mesmo para o arquivo **aplication.properties**
 
-Execute a aplicacão em uma ide de sua escolha. 
+Execute a aplicacão em uma IDE de sua escolha. 
