@@ -2,7 +2,7 @@
 
 # Codeblog
 
-Aplicação desenolvida com **Spring Boot**, **Postgres** como banco de dados e **Thymeleaf**.
+Aplicação desenvolvida com **Spring Boot**, **Postgres** como banco de dados e **Thymeleaf**.
 
 #### Projeto 
 Projeto que serve para exemplificar o uso do **Spring boot** e uma camada de segurança com **Spring Security**
@@ -12,11 +12,15 @@ Projeto que serve para exemplificar o uso do **Spring boot** e uma camada de seg
 - Spring Security
 - Thymeleaf
 - Postgres
-- Botstrap
+- Bootstrap
 
 ## Rodando em ambiente de desenvolvimento
 
 **1:** Clone o repositório.
+
+```
+https://github.com/NandaMonteiro/mycodeblog-springboot
+```
 
 Tenha o java com a versão 11 instalado em sua máquina.
 
